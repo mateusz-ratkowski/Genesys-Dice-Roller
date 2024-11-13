@@ -271,4 +271,4 @@ client:on('messageCreate', function(message)
     end
 end)
 
-client:run('Bot ODUxNTE2NDQ3NDE0OTQzODM0.YL5afQ.7oQ51xu6Zgb1ztq2emgIQW9swQM')
+client:run('Bot TOKEN')
